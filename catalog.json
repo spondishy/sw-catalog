@@ -1,0 +1,20 @@
+[
+  {
+    "UID": "VC23",
+    "Name": "Luke Skywalker (Endor)",
+    "Line": "Vintage Collection",
+    "ItemType": "Figure"
+  },
+  {
+    "UID": "VEH04",
+    "Name": "X-Wing Fighter",
+    "Line": "Vintage Collection",
+    "ItemType": "Vehicle"
+  },
+  {
+    "UID": "BS01",
+    "Name": "Darth Vader",
+    "Line": "Black Series",
+    "ItemType": "Figure"
+  }
+]
